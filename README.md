@@ -18,7 +18,7 @@ It is important to consider privacy and security when using Uber Fares data coll
 
 ### Dataset Descrption
 
-Dataset used here is from a [Kaggle Datast ](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset). 
+Dataset used here is from a [Kaggle Dataset ](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset). 
 
 * Size of Dataset set: 200000 records
   
