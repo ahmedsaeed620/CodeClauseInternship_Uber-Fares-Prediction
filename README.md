@@ -8,7 +8,7 @@
 
 
 ## Overview
-The Uber price dataset is a dataset that contains information about Uber prices in different regions. This group includes information such as the time and date of the trip, the start and destination location, the distance and duration of the trip, and the fare paid.
+The Uber Fares dataset is a dataset that contains information about Uber prices in different regions. This group includes information such as the time and date of the trip, the start and destination location, the distance and duration of the trip, and the fare paid.
 The Uber Fares dataset is used to analyze trip patterns, predict trip costs, and understand user behavior. This data can be used to improve transportation service, develop pricing strategies, and improve user experience.
 The Uber Fares dataset is a valuable collection for data scientists and data analysts to understand rider behavior, predict demand patterns, and analyze billing. Advanced data analysis techniques such as machine learning and data mining can be used to leverage this combination to discover new trends and patterns.
 It is important to consider privacy and security when using Uber Fares data collection, and you should ensure that use complies with privacy policies and applicable local laws.
