@@ -13,8 +13,8 @@ The Uber Fares dataset is used to analyze trip patterns, predict trip costs, and
 The Uber Fares dataset is a valuable collection for data scientists and data analysts to understand rider behavior, predict demand patterns, and analyze billing. Advanced data analysis techniques such as machine learning and data mining can be used to leverage this combination to discover new trends and patterns.
 It is important to consider privacy and security when using Uber Fares data collection, and you should ensure that use complies with privacy policies and applicable local laws.
 
-<img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/TAL-uber-screen-car-UBERHOLIDAY1122-50314d4bd42e4316bec881419eab2d3d.jpg" width = 450 height = 200/> <img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/download.jpg" width = 450 height = 200/>
-<img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/uber.webp" width = 450 height = 200/> <img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/Uber-driver-holds-smartphone-in-car.webp" width = 450 height = 200/>
+<img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/TAL-uber-screen-car-UBERHOLIDAY1122-50314d4bd42e4316bec881419eab2d3d.jpg" width = 400 height = 200/> <img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/download.jpg" width = 400 height = 200/>
+<img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/uber.webp" width = 400 height = 200/> <img src = "https://github.com/ahmedsaeed620/CodeClauseInternship_Uber-Fares-Prediction/blob/main/Images/Uber-driver-holds-smartphone-in-car.webp" width = 400 height = 200/>
 
 ### Dataset Descrption
 
